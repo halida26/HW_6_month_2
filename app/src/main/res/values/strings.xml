@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW_6_month_2</string>
+    <string name="tv_into">Вход</string>
+    <string name="tv_to_do_sign_in_or_into">Выполните вход \n или зарегистрирувайтесть</string>
+    <string name="wtite_your_email">Введите вашу почту</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="to_come_in">Войти</string>
+    <string name="forgot_password">Забыл парол?</string>
+    <string name="click_here">Нажми сюда</string>
+    <string name="tv_welcome">Добро пожаловать!</string>
+</resources>
